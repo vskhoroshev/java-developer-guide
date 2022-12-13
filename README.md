@@ -1,5 +1,6 @@
 1. https://rexegg.com/ - Regular Expressions
 2. https://gitmoji.dev/ - An emoji guide for your git-commit messages
+3. https://learn.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest - How to install the Azure CLI
 
 ---
 
