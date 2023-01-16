@@ -33,3 +33,4 @@
 1. https://levelup.gitconnected.com/semantic-release-automation-with-gradle-using-nyx-ba345235a365 - Semantic Release Automation with Gradle using Nyx
 2. https://bool.dev/blog/detail/gof-design-patterns - Gand of Four (GoF)
 3. https://pvs-studio.com/ru/blog/posts/java/0603/ - PVS-Studio для Java
+4. https://12factor.net/ru/ - Двенадцать факторов (The Twelve-Factor App)
