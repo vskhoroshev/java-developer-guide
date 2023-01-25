@@ -28,10 +28,11 @@
 2. https://google.github.io/styleguide/javaguide.html - Google Java Style Guide
 3. https://www.sqlstyle.guide/ - SQL Style Guide
 
+---
 
-https://jdk.java.net/ - Oracle OpenJDK
-https://adoptium.net/ - Adoptium Temurin
-https://aws.amazon.com/ru/corretto/?filtered-posts.sort-by=item.additionalFields.createdDate&filtered-posts.sort-order=desc - Amazon Corretto
+1. https://jdk.java.net/ - Oracle OpenJDK
+2. https://adoptium.net/ - Adoptium Temurin
+3. https://aws.amazon.com/ru/corretto/?filtered-posts.sort-by=item.additionalFields.createdDate&filtered-posts.sort-order=desc - Amazon Corretto
 
 ---
 
