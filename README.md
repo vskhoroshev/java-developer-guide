@@ -40,3 +40,4 @@
 2. https://bool.dev/blog/detail/gof-design-patterns - Gand of Four (GoF)
 3. https://pvs-studio.com/ru/blog/posts/java/0603/ - PVS-Studio для Java
 4. https://12factor.net/ru/ - Двенадцать факторов (The Twelve-Factor App)
+5. https://stackoverflow.com/help/minimal-reproducible-example - Как создать минимальный, воспроизводимый пример
